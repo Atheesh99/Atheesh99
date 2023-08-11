@@ -1,11 +1,11 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*s7of7kWnf9fDg4XM.jpeg)]
+![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1096555/0408-FlutterMessangerDemo-Luke_Social-e8a0e8ddab86b503a125ebcad823c583.png)
 <h1 align="center">Hi 👋, I'm Atheesh k</h1>
 <h3 align="center">A passionate flutter developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheesh99&label=Profile%20views&color=0e75b6&style=flat" alt="atheesh99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
